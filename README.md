@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @Makdavy1
+- 👋 Hi there, I’m David Makoko
 - 👀 I’m interested in Data Visualization, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning R, Shiny Apps and Python
 - 💞️ I’m looking to collaborate on R, Python, Shiny Apps, AI and Machine Learning
