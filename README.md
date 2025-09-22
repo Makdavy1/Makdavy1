@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m David Makoko
 - 👀 I’m interested in Data Visualization, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning R, Shiny Apps, Computational Neuroscience, Machine Learning and Python
+- 🌱 I’m currently learning R, Shiny Apps, Computational Neuroscience, Mathematical modeling, Machine Learning and Python
 - 💞️ I’m looking to collaborate on R, Python, Shiny Apps, AI and Machine Learning
 - 📫 How to reach me chiefmakoko@gmail.com 
 
